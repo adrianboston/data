@@ -1,5 +1,5 @@
 {
-  "name": "ember-data",
+  "name": "ember-data-query",
   "private": true,
   "dependencies": {
     "ember": "~1.12.1"
