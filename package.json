@@ -1,5 +1,5 @@
 {
-  "name": "ember-data",
+  "name": "ember-data-query",
   "version": "1.0.0-beta.20+canary",
   "namespace": "DS",
   "repository": "git://github.com/emberjs/data.git",
